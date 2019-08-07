@@ -1,0 +1,24 @@
+[submodule "nishang"]
+	path = nishang
+	url = https://github.com/samratashok/nishang
+	branch = master
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists
+	branch = master
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit
+	branch = master
+[submodule "LinEnum"]
+	path = LinEnum
+	url = https://github.com/rebootuser/LinEnum
+	branch = master
+[submodule "pspy"]
+	path = pspy
+	url = https://github.com/DominicBreuker/pspy
+	branch = master
+[submodule "One-Lin3r"]
+	path = One-Lin3r
+	url = https://github.com/D4Vinci/One-Lin3r
+	branch = master
