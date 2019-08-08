@@ -14,10 +14,6 @@
 	path = LinEnum
 	url = https://github.com/rebootuser/LinEnum
 	branch = master
-[submodule "pspy"]
-	path = pspy
-	url = https://github.com/DominicBreuker/pspy
-	branch = master
 [submodule "One-Lin3r"]
 	path = One-Lin3r
 	url = https://github.com/D4Vinci/One-Lin3r
