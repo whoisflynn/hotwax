@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Git will need to be installed in order to pull this repo (obv).
+Git.
 
 ```
 apt install -y git
