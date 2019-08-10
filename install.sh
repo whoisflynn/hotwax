@@ -81,6 +81,26 @@ echo "alias sherlock='python3 /opt/hotwax/sherlock/sherlock.py'" >> ~/.bashrc
 source ~/.bashrc
 echo -e ''
 
+echo -e '[*] AutoRecon - https://github.com/Tib3rius/AutoRecon'
+echo -e '[*] Copying AutoRecon to /opt/hotwax/AutoRecon'
+mkdir -p /opt/hotwax
+cp -R ${hotwax_folder}/AutoRecon /opt/hotwax/
+echo -e '[*] Setting up AutoRecon Dependencies'
+python3 -m pip install -r /opt/hotwax/AutoRecon/requirements.txt
+echo -e ''
+
+echo -e '[*] Windows PHP Reverse Shell - https://github.com/Dhayalanb/windows-php-reverse-shell'
+echo -e '[*] Copying Windows PHP Reverse Shells to /opt/hotwax/WindowsPHPReverseShell'
+mkdir -p /opt/hotwax
+cp -R ${hotwax_folder}/WindowsPHPReverseShell /opt/hotwax/
+echo -e ''
+
+echo -e '[*] OSCP Exam Report Template - https://github.com/whoisflynn/OSCP-Exam-Report-Template'
+echo -e '[*] Copying OSCP Exam Report Template to /opt/hotwax/OSCPExamTemplate'
+mkdir -p /opt/hotwax
+cp -R ${hotwax_folder}/OSCPExamTemplate /opt/hotwax/
+echo -e ''
+
 ### Non-Python Template
 #echo -e '[*] NEWPACKAGE - https://github.com/newcontributor/newpackage'
 #echo -e '[*] Copying NEWPACKAGE to /opt/hotwax/NEWPACKAGE'
