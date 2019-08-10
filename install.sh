@@ -81,6 +81,33 @@ echo "alias sherlock='python3 /opt/hotwax/sherlock/sherlock.py'" >> ~/.bashrc
 source ~/.bashrc
 echo -e ''
 
+### Non-Python Template
+#echo -e '[*] NEWPACKAGE - https://github.com/newcontributor/newpackage'
+#echo -e '[*] Copying NEWPACKAGE to /opt/hotwax/NEWPACKAGE'
+#mkdir -p /opt/hotwax
+#source ~/virtualenv/python2/bin/activate
+#cp -R ${hotwax_folder}/NEWPACKAGE /opt/hotwax/
+#<add any required aliases to ~/.bashrc here>
+#echo -e ''
+
+### Python3 Template
+#echo -e '[*] NEWPACKAGE - https://github.com/newcontributor/newpackage'
+#echo -e '[*] Copying NEWPACKAGE to /opt/hotwax/NEWPACKAGE'
+#mkdir -p /opt/hotwax
+#source ~/virtualenv/python3/bin/activate
+#<copy your package under /opt/hotwax, or install your python package here>
+#<add any required aliases to ~/.bashrc here>
+#echo -e ''
+
+### Python2 Template
+#echo -e '[*] NEWPACKAGE - https://github.com/newcontributor/newpackage'
+#echo -e '[*] Copying NEWPACKAGE to /opt/hotwax/NEWPACKAGE'
+#mkdir -p /opt/hotwax
+#source ~/virtualenv/python2/bin/activate
+#<copy your package under /opt/hotwax, or install your python package here>
+#<add any required aliases to ~/.bashrc here>
+#echo -e ''
+
 # Close the new block of HOTWAX aliases
 echo '### HOTWAX END ###' >> ~/.bashrc
 
