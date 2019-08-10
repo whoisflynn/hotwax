@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/8198523/62826983-af786380-bb93-11e9-85a6-c938284e1057.png)
 # HOTWAX
 
-HOTWAX is a script to provision a set of extra pentesting tools onto a Kali Linux machine.
+Hotwax is a script to provision a set of extra pentesting tools onto a Kali Linux machine in a consistent manner.
 
 ## Getting Started
 
