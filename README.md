@@ -40,6 +40,9 @@ cd hotwax
  - [nishang](https://github.com/samratashok/nishang) - Framework and collection of scripts and payloads which enables usage of PowerShell for penetration testing.
  - [pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions.
  - [sherlock](https://github.com/sherlock-project/sherlock) - Find usernames across social networks.
+ - [AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+- [Windows PHP Reverse Shell](https://github.com/Dhayalanb/windows-php-reverse-shell) - Simple php reverse shell implemented using binary , based on an webshell .
+- [OSCP Exam Report Template](https://github.com/whoisflynn/OSCP-Exam-Report-Template) - Modified template for the OSCP Exam
 
 ## Contributing
 
@@ -51,6 +54,7 @@ Please read [CONTRIBUTING.md](https://github.com/BrashEndeavours/hotwax/blob/mas
 
 ## Contributors
 
+* **Alec Mather-Shapiro** - *Added AutoRecon, Windows PHP Reverse Shell, and OSCP Exam Template** - [whoisflynn](https://github.com/whoisflynn)
 * Want your name here? See CONTRIBUTING.md for details.
 
 ## Acknowledgements
@@ -62,6 +66,9 @@ Please read [CONTRIBUTING.md](https://github.com/BrashEndeavours/hotwax/blob/mas
 * **Nikhil "SamratAshok" Mittal** - [nishang](https://github.com/samratashok/nishang)
 * **Dominic Breuker** - [pspy](https://github.com/DominicBreuker/pspy)
 * **sherlock-project** - [sherlock](https://github.com/sherlock-project/sherlock)
+* **Tib3rius** - [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+* **Dhayalanb** - [Windows PHP Reverse Shell](https://github.com/Dhayalanb/windows-php-reverse-shell)
+* **whoisflynn** - [OSCP Exam Report Template](https://github.com/whoisflynn/OSCP-Exam-Report-Template)
 
 ## License
 
