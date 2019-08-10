@@ -54,8 +54,9 @@ Please read [CONTRIBUTING.md](https://github.com/BrashEndeavours/hotwax/blob/mas
 
 ## Contributors
 
-* **Alec Mather-Shapiro** - *Added AutoRecon, Windows PHP Reverse Shell, and OSCP Exam Template** - [whoisflynn](https://github.com/whoisflynn)
 * Want your name here? See CONTRIBUTING.md for details.
+
+* **Alec Mather-Shapiro (whoisflynn)** - *Added AutoRecon, Windows PHP Reverse Shell, and OSCP Exam Template** - [whoisflynn](https://github.com/whoisflynn)
 
 ## Acknowledgements
 
