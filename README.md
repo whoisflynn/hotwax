@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/8198523/62826983-af786380-bb93-11e9-85a6-c938284e1057.png)
 # HOTWAX
 
 HOTWAX is a script to provision a set of extra pentesting tools onto a Kali Linux machine.
@@ -32,13 +33,13 @@ cd hotwax
 
 ## Tools installed:
 
-### YOUR PENTESTING TOOL?
-
-Your brief description
-
-```
-Some demo code if needed
-```
+ - [LinEnum](https://github.com/rebootuser/LinEnum) - Local Linux Enumeration & Privilege Escalation Script 
+ - [One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - On demand one-liners that aid in penetration testing operations, privilege escalation and more
+ - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
+ - [SecLists](https://github.com/danielmiessler/SecLists) - Collection of usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and more.
+ - [nishang](https://github.com/samratashok/nishang) - Framework and collection of scripts and payloads which enables usage of PowerShell for penetration testing.
+ - [pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions.
+ - [sherlock](https://github.com/sherlock-project/sherlock) - Find usernames across social networks.
 
 ## Contributing
 
@@ -54,7 +55,7 @@ Please read [CONTRIBUTING.md](https://github.com/BrashEndeavours/hotwax/blob/mas
 
 ## Acknowledgements
 
-* **Rebootuser (@in-security)** - [LinEnum](https://github.com/rebootuser/LinEnum)
+* **Rebootuser (@rebootuser)** - [LinEnum](https://github.com/rebootuser/LinEnum)
 * **D4Vinci (@Seekurity)** - [One-Lin3r](https://github.com/D4Vinci/One-Lin3r)
 * **PowerShellMafia** - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
 * **Daniel Miessler** - [SecLists](https://github.com/danielmiessler/SecLists)
