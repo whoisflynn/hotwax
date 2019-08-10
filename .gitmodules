@@ -18,3 +18,7 @@
 	path = One-Lin3r
 	url = https://github.com/D4Vinci/One-Lin3r
 	branch = master
+[submodule "sherlock"]
+	path = sherlock
+	url = https://github.com/sherlock-project/sherlock
+	branch = master
